@@ -20,7 +20,7 @@ const Home: React.FC = () => {
           <IonButtons slot="start">
             <IonMenuButton></IonMenuButton>
           </IonButtons>
-          <IonTitle className="title">Home</IonTitle>
+          <IonTitle className="title">Year of the horse</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>

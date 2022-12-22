@@ -35,7 +35,7 @@ const Second: React.FC = () => {
           <IonButtons slot="start">
             <IonMenuButton></IonMenuButton>
           </IonButtons>
-          <IonTitle className="title">The Year 2023..</IonTitle>
+          <IonTitle className="title">The Year 2023</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>

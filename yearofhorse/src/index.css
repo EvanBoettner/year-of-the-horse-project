@@ -1,52 +1,61 @@
 .horse {
-    display: block;
-    margin: auto;
-    height: 500px;
-    width: 50%;
+  display: block;
+  margin: auto;
+  height: 500px;
+  width: 50%;
 }
 
-.item{
-    margin-top: 25px;
+.item {
+  margin-top: 25px;
 }
 
 .title {
-    text-align: center;
+  text-align: center;
 }
 
 :root {
-    --ion-background-color: rgb(178, 171, 191);
+  --ion-background-color: rgb(178, 171, 191);
 }
 
 .homeIMG {
-    /* background-image: url('./images/successisnotstraight-part2.jpg'); */
-    height: 75vh;
+  /* background-image: url('./images/successisnotstraight-part2.jpg'); */
+  height: 75vh;
 }
 
 .succ {
-    display: block;
-    margin: auto;
-    margin-top: 16vh;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-    border-radius: 15px;
+  display: block;
+  margin: auto;
+  margin-top: 16vh;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 15px;
 }
 
 .question1 {
-    width: 25%;
-    float: left;
+  width: 25%;
+  float: left;
+}
+
+.question1:hover {
+  -webkit-transform: rotateZ(-30deg);
+  -ms-transform: rotateZ(-30deg);
+  transform: rotateZ(-30deg);
 }
 
 .questions {
-    width: 25%;
-    float: right;
+  width: 25%;
+  float: right;
+}
+
+.questionss {
+  width: 25%;
+  float: left;
 }
 
 .card1IMG {
-    width: 100%;
-    height: 210px;
+  width: 100%;
+  height: 210px;
 }
 
 ion-card {
-    --background: rgb(186, 167, 176);
-    
+  --background: rgb(186, 167, 176);
 }
-
