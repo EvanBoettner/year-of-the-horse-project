@@ -1,0 +1,7 @@
+{
+  "name": "yearofhorse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
